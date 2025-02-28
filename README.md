@@ -1,3 +1,13 @@
+<!-- SUMMARY -->
+# Handwritten Digit Object Detection  
+
+This project implements an **end-to-end machine learning system** for **handwritten digit object detection** using **YOLOv8, PyTorch, and Ultralytics**. Our model was trained on **4,190 annotated images**, collected and labeled by students, to accurately detect multiple handwritten digits per image. Key achievements include:  
+- **Trained and fine-tuned a YOLOv8 model** for object detection, achieving high **IoU and mAP scores**.  
+- **Implemented a robust data pipeline** for preprocessing, annotation (via makesense.ai), and dataset structuring.  
+- **Developed a scalable training and testing workflow** with detailed result tracking.  
+- **Deployed and validated the model** on unseen test data, demonstrating strong generalization.  
+
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
